@@ -577,6 +577,21 @@ header .fa-bars{
 /* our contacts ends */
 
 /* newslatter section */
+.newsletters{
+    padding: 2rem;
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.6)),url(./img4.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.newsletters h1{
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 0 .3rem .5rem #000;
+}
+
 .newsletters p{
     font-size: 2rem;
     color: #eee;
